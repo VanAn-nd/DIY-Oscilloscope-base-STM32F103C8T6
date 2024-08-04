@@ -1,0 +1,12 @@
+st7735.c:191:13:ST7735_SetAddressWindow	48	static
+st7735.c:208:6:ST7735_Init	32	static
+st7735.c:218:6:ST7735_DrawPixel	16	static
+st7735.c:241:6:ST7735_HLine	24	static
+st7735.c:265:6:ST7735_VLine	24	static
+st7735.c:287:6:ST7735_Line	72	static
+st7735.c:378:6:ST7735_WriteString	96	static
+st7735.c:409:6:ST7735_FillRectangle	24	static
+st7735.c:435:6:ST7735_FillScreen	24	static
+st7735.c:441:6:ST7735_DrawImage	24	static
+st7735.c:453:6:ST7735_InvertColors	4	static
+st7735.c:461:6:ST7735_test	32	static
